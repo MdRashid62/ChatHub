@@ -1,0 +1,11 @@
+{
+  "name": "chathub",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Rashid",
+  "license": "MIT"
+}
